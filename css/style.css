@@ -1494,11 +1494,12 @@ footer{
 }
 
 .modal-fact {
-  width: 40%;
+  width: 70%;
   height: 40%;
   position: fixed;
-  top: 30%;
-  left: 30%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   display: none;
   z-index: 9999;
   background: #fff;
@@ -1509,5 +1510,6 @@ footer{
   box-shadow: 0 6px 18px rgba(15, 23, 42, 0.35);
   box-sizing: border-box;
 }
+
 
 
