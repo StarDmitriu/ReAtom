@@ -270,6 +270,10 @@ a {
   text-transform: uppercase;
 }
 
+.logo-text-main span{
+  color: #00E5C5;
+}
+
 .logo-text-sub {
   font-size: 12px;
   opacity: 0.8;
@@ -1508,3 +1512,4 @@ footer{
   overflow-y: auto;
   box-shadow: 0 6px 18px rgba(15, 23, 42, 0.35);
 }
+
